@@ -1,0 +1,1 @@
+Sitemap: https://docs.netapp.com/ja-jp/bluexp-economic-efficiency/sitemap.xml
