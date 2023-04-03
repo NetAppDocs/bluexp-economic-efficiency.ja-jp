@@ -20,7 +20,7 @@ summary: この FAQ は、質問に対する簡単な回答を探している場
 
 * BlueXP Economic EfficiencyのURLは何ですか？*
 
-URLの場合は、ブラウザで次のように入力します。 https://console.bluexp.netapp.com/[] をクリックしてBlueXPコンソールにアクセスします。
+URLの場合は、ブラウザで次のように入力します。 https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^] をクリックしてBlueXPコンソールにアクセスします。
 
 
 

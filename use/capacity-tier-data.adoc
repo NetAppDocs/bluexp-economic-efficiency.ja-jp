@@ -29,8 +29,8 @@ Economic Efficiencyサービスは、予測されるデータ増加量に基づ�
 . [コールドデータを階層化]*を選択します。
 . 次の手順は、BlueXP Connectorを導入済みでクラスタが検出されているかどうかによって異なります。
 +
-** BlueXPコネクタを導入する必要がある場合は、該当するBlueXPのドキュメントを参照してください https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コネクタの作成方法"]。それ以外の場合は、既にコネクタをデプロイしている場合、コネクタをデプロイするオプションは表示されません。
-** サービスでクラスタを検出する必要がある場合は、を参照してください https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["オンプレミスのONTAP クラスタを検出"]。そうしないと、クラスタがすでに検出されている場合、クラスタを検出するオプションは表示されません。
+** BlueXPコネクタを導入する必要がある場合は、該当するBlueXPのドキュメントを参照してください https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コネクタの作成方法"^]。それ以外の場合は、既にコネクタをデプロイしている場合、コネクタをデプロイするオプションは表示されません。
+** サービスでクラスタを検出する必要がある場合は、を参照してください https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["オンプレミスのONTAP クラスタを検出"^]。そうしないと、クラスタがすでに検出されている場合、クラスタを検出するオプションは表示されません。
 
 
 +
