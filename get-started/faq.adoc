@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: get-started/faq.html 
+keywords: economic efficiency faq, economic efficiency frequently asked questions 
+summary: この FAQ は、質問に対する簡単な回答を探している場合に役立ちます。 
+---
+= Economic efficiencyサービスに関するよくある質問
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+この FAQ は、質問に対する簡単な回答を探している場合に役立ちます。
+
+
+
+== 経済効率化サービスへのアクセス
+
+* BlueXP Economic EfficiencyのURLは何ですか？*
+
+URLの場合は、ブラウザで次のように入力します。 https://console.bluexp.netapp.com/[] をクリックしてBlueXPコンソールにアクセスします。
+
+
+
+== ライセンス
+
+*経済効率化サービスを利用するにはライセンスが必要ですか？*
+
+ネットアップライセンスファイル（NLF）は必要ありません。

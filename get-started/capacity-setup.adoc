@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/capacity-setup.html 
+keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
+summary: Economic Efficiencyサービスを使用するには、いくつかの手順を実行して設定します。 
+---
+= 経済効率化サービスを設定します
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Economic Efficiencyサービスを使用するには、いくつかの手順を実行して設定します。
+
+* レビュー link:../get-started/prerequisites.html["前提条件"] 環境の準備が整っていることを確認します。
+* BlueXPでコネクタを作成します。
+* BlueXPでクラスタを検出します。
+
+
+BlueXPでコネクタを直接作成し、後のEconomic Efficiencyサービスで使用できます。または、リスク修復プロセスの途中でコネクタを作成することもできます。
+
+同様に、BlueXPを使用して事前にクラスタを検出することも、リスク修正プロセスで検出することもできます。
+
+
+
+== BlueXPでコネクタを作成します
+
+BlueXP Connectorには、NetApp ONTAP マシンへのクレデンシャルが含まれています。
+
+サービスを使用する前にBlueXPでコネクタを作成する方法については、該当するBlueXPのドキュメントを参照してください https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コネクタの作成方法"]。
+
+
+
+== BlueXPでクラスタを検出します
+
+セットアップの一環として、BlueXPでクラスタ名、IP、ユーザ名、パスワードを特定します。
+
+サービスを使用する前の手順については、を参照してください https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["オンプレミスのONTAP クラスタを検出"]。

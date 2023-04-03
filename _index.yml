@@ -1,0 +1,38 @@
+---
+indexpage:
+  lead: システムの容量不足による不要なダウンタイムを回避するには、キャパシティプランニングが不可欠です。NetApp BlueXP Economic Efficiencyサービスは、容量が少ないクラスタを特定したり、現在の容量と予測される容量についてクラスタを確認したり、CPU利用率、IOPSパフォーマンス、レイテンシのパフォーマンスを確認して容量を修正する機会を特定したりするのに役立ちます。
+  tiles:
+  - title: はじめに
+    links:
+    - title: 経済効率化サービスについて説明します
+      url: "/get-started/intro.html"
+    - title: Economic Efficiency Serviceの新機能
+      url: "/release-notes/whats-new.html"
+    - title: クイックスタート
+      url: "/get-started/quick-start.html"
+    - title: 前提条件
+      url: "/get-started/prerequisites.html"
+    - title: BlueXPでサービスにログインします
+      url: "/get-started/capacity-login.html"
+    - title: よく寄せられる質問
+      url: "/get-started/faq.html"
+  - title: Economic Efficiencyサービスを使用してください
+    links:
+    - title: 容量の問題を確認して修正
+      url: "/use/capacity-remediate-overview.html"
+    - title: 容量ステータスを確認
+      url: "/use/capacity-review-status.html"
+    - title: 容量を追加します
+      url: "/use/capacity-add.html"
+    - title: コールドデータをクラウドストレージに階層化
+      url: "/use/capacity-tier-data.html"
+    - title: もう一度確認するようにリマインダーを設定します
+      url: "/use/capacity-reminders.html"
+  - title: ブログとコミュニティ
+    links:
+    - title: ネットアップコミュニティ
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Cloud Tieringブログ
+      url: https://bluexp.netapp.com/blog/topic/cloud-tiering
+    - title: クラウドに関する Web セミナー
+      url: https://bluexp.netapp.com/events

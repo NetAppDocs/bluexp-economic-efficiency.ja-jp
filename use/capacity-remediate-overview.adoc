@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-remediate-overview.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning 
+summary: NetApp BlueXPのEconomic Efficiency Capacity Planningサービスは、AIを使用してデータ量の増大を予測し、計画プロセスを支援します。 
+---
+= 容量の問題を確認して修正
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+キャパシティプランニングでは、現在と予測の両方で、環境内の容量が少ない領域を特定します。NetApp BlueXPのEconomic Efficiencyサービスは、AIを使用してデータ量の増大を予測し、計画プロセスを支援します。Economic Efficiencyサービスは、環境内の容量が少ない領域を特定し、問題の解決方法に関する推奨事項を提供します。
+
+Economic Efficiencyサービスを使用すると、次の目標を達成できます。
+
+* link:../use/capacity-review-status.html["キャパシティプランニングのステータスを確認します"]
+* link:../use/capacity-add.html["容量を追加します"]
+* link:../use/capacity-tier-data.html["コールドデータをクラウドストレージに階層化し、ストレージを解放します"]
+* link:../use/capacity-reminders.html["アクションなしを選択し、再度確認するようにリマインダーを設定します"]
+

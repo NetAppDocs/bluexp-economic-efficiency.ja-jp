@@ -1,0 +1,16 @@
+---
+section: get-started
+title: はじめに
+entries:
+- title: 経済効率化サービスについて説明します
+  url: "/get-started/intro.html"
+- title: 前提条件
+  url: "/get-started/prerequisites.html"
+- title: クイックスタート
+  url: "/get-started/quick-start.html"
+- title: 経済効率化サービスを設定します
+  url: "/get-started/capacity-setup.html"
+- title: BlueXPのサービスにアクセスします
+  url: "/get-started/capacity-login.html"
+- title: よく寄せられる質問
+  url: "/get-started/faq.html"

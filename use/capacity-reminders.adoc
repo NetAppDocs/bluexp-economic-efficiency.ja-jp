@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-reminders.html 
+keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
+summary: 容量を追加したりコールドデータを階層化したりするのではなく、現時点では対処不要で、30日、60日、90日後に再度確認するようにリマインダを設定できます。 
+---
+= もう一度確認するようにリマインダーを設定します
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+容量を追加したりコールドデータを階層化したりするのではなく、現時点では対処不要で、30日、60日、90日後に再度確認するようにリマインダを設定できます。
+
+.手順
+. BlueXPの左側のナビゲーションで、* Governance *>* Economic Efficiency *>* Capacity Planning *を選択します。
+. アセットの*[Evaluate Storage Options]*を選択します。
+. [アクションは必要ありません]*を選択します。
+. 容量不足の可能性がある問題 について、再通知を受けるタイミング（30日、60日、90日）を選択します。
+. [ 保存（ Save ） ] を選択します。
+
+
+.結果
+この時間が経過すると、リスクのリストに再びリスクが表示されます。

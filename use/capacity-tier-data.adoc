@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-tier-data.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
+summary: Economic Efficiencyサービスは、予測されるデータ増加量に基づいて推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、予測される容量増加を満たす、資産構成に最適な推奨事項が提示されます。たとえば、コールドデータをクラウドストレージに階層化して容量を解放することを推奨します。これにより、別のBlueXPサービスであるNetApp Cloud Tieringへの接続が開始されます。 
+---
+= コールドデータをクラウドストレージに階層化し、ストレージを解放します
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Economic Efficiencyサービスは、予測されるデータ増加量に基づいて推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、予測される容量増加を満たす、資産構成に最適な推奨事項が提示されます。たとえば、コールドデータをクラウドストレージに階層化して容量を解放することを推奨します。これにより、別のBlueXPサービスであるNetApp Cloud Tieringへの接続が開始されます。
+
+そこからデータを階層化し、Economic Efficiencyサービスに簡単に戻って他のシステムに対処できます。
+
+クラウド階層化プロセスには次のプロセスが含まれます。
+
+* コネクタを展開します
+* クラスタを検出
+* クラウドへの階層化をセットアップする
+
+
+.手順
+. BlueXPの左側のナビゲーションで、* Governance *>* Economic Efficiency *>* Capacity Planning *を選択します。
+. アセットの*[Evaluate Storage Options]*を選択します。
+. [コールドデータを階層化]*を選択します。
+. 次の手順は、BlueXP Connectorを導入済みでクラスタが検出されているかどうかによって異なります。
++
+** BlueXPコネクタを導入する必要がある場合は、該当するBlueXPのドキュメントを参照してください https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コネクタの作成方法"]。それ以外の場合は、既にコネクタをデプロイしている場合、コネクタをデプロイするオプションは表示されません。
+** サービスでクラスタを検出する必要がある場合は、を参照してください https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["オンプレミスのONTAP クラスタを検出"]。そうしないと、クラスタがすでに検出されている場合、クラスタを検出するオプションは表示されません。
+
+
++
+Economic Efficiencyサービスは、もう1つのNetApp BlueXPサービスであるCloud Tieringサービスへの接続を開始します。
+
+. [コネクタの追加]*を選択します。
+. クラウドプロバイダを選択し、*[続行]*を選択します。
+. [続行]*または*[導入にスキップ]*を選択します。
++
+コネクタの導入後、BlueXP Cloud Tieringがクラスタを検出します（まだ検出されていない場合）。
+
+. クラスタが検出されたら、階層化をセットアップします。
++
+階層化の詳細については、を参照してください https://docs.netapp.com/us-en/cloud-manager-tiering/index.html["Cloud Tieringサービスのドキュメント"^]。
+
+

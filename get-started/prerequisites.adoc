@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites.html 
+keywords: what are bluexp economic efficiency requirements, economic efficiency prerequisites 
+summary: 環境がサポートされているかどうか、ネットワークアクセス、ログイン、Webブラウザを確認して、BlueXPのEconomic Efficiencyを活用しましょう。 
+---
+= 経済効率の前提条件
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+まず、運用環境、ログイン、ネットワークアクセス、Webブラウザの準備状況を確認します。
+
+Economic Efficiencyサービスを使用するには、環境がすべての要件を満たしていることを確認する必要があります。
+
+* Webブラウザからのログインやネットワークアクセスなど、BlueXPのすべての要件を満たす環境が必要です。
++
+BlueXPを参照してください https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["はじめにチェックリスト"]。
+
+* クラスタへのアクセスクレデンシャルが必要です。
+* 必須ではありませんが、BlueXP Connectorが適切に配置されて有効になっていて、ONTAP システムが検出された場合に役立ちます。そうでない場合は、サービスがそれらのプロセスを順を追って説明します。
+* クラウドストレージへのコールドデータの階層化を計画している場合は、クラスタがライセンスごとに対象であることを確認してください。
+

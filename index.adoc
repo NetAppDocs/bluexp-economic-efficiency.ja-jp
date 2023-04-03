@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: システムの容量不足による不要なダウンタイムを回避するには、キャパシティプランニングが不可欠です。NetApp BlueXP Economic Efficiencyサービスは、容量が少ないクラスタを特定したり、現在の容量と予測される容量についてクラスタを確認したり、CPU利用率、IOPSパフォーマンス、レイテンシのパフォーマンスを確認して容量を修正する機会を特定したりするのに役立ちます。 
+---
+= 経済効率サービス
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
