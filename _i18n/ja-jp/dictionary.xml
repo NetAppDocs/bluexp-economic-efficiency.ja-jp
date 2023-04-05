@@ -15,9 +15,7 @@
   <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
   <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">オープンソース</block>
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知ファイルには、ネットアップソフトウェアで使用されるサードパーティの著作権およびライセンスに関する情報が記載されています。</block>
-  <block id="1823c77710c8271e3b4633bfba2c5ef0" category="summary">環境がサポートされているかどうか、ネットワークアクセス、ログイン、Webブラウザを確認して、BlueXPのEconomic Efficiencyを活用しましょう。</block>
   <block id="2dcdbb99022cfb6c4ef2bd327930b9d0" category="doc">キャパシティプランニングのステータスを確認します</block>
-  <block id="142154e222a455f7be51aa612aba2d1d" category="paragraph">クラスタの容量が現在のしきい値（70%）を下回っているか、しきい値（70%）を下回っていると予測される場合は、Economic Efficiencyサービスによって容量が不足しているリソースとみなされ、アラートが生成されます。また、Economic Efficiencyサービスでは、データを階層化するか容量を追加するかを推奨します。</block>
   <block id="837d5e9f2c5cbcdab7649199e74aeb6f" category="paragraph">容量問題 の解決に役立つ次のタイプのデータを確認できます。</block>
   <block id="419f3742e6de8e0ec4b22cce005e7630" category="list-text">プラットフォーム</block>
   <block id="47e9bbb6c6753120f1dd00ed48d96e49" category="list-text">アセットが配置されている国</block>
@@ -35,7 +33,6 @@
   <block id="bd9fba5131fe31e90bfebbe0a6d1fbc4" category="list-text">*コールドデータの階層化*：次に進みます <block ref="9cc0dcfcd75c3218b5d225e3ae2afe53" category="inline-link-macro-rx"></block>。</block>
   <block id="e9f46f0dabd9b0a7cb1c344012680279" category="inline-link-macro">アクションなしを選択し、再度確認するリマインダを設定します</block>
   <block id="40bc28714e5ee6178cf9bc098160d023" category="list-text">*アクションは必要ありません*：次の手順に進みます <block ref="8a3dfb7bd904e33c9fbc3c16fc228e01" category="inline-link-macro-rx"></block>。</block>
-  <block id="7837519a23fbbe627dab4cf90b3f1f75" category="summary">Economic Efficiencyサービスは、予測されるデータ増加量に基づいて、AFF システムに関する推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、容量の増加予測を満たす、資産構成に最適な推奨事項が提示されます。</block>
   <block id="dbaae314ffc8b46919877d02b85696cb" category="doc">容量を追加します</block>
   <block id="d61c6fe6373ce09cb70846c4b4009e46" category="paragraph">たとえば、既存のシリアル番号にシェルフを追加して容量を追加することを推奨します。</block>
   <block id="417aeeb6b45f27026b8f5da134cf808b" category="paragraph">提案書は、見積もりのリクエストとして、または代替オプションのリクエストとして、ネットアップの営業チームに簡単に提出できます。</block>
@@ -56,18 +53,13 @@
   <block id="528798800bb18a55c8e56e2808e35e26" category="list-text">追加容量の申請を確認し、*[確認して送信]*を選択します。</block>
   <block id="d452d8a47d94ca7bfae59d96b15e9eae" category="paragraph">[Capacity Planning Status]ページが表示されます。</block>
   <block id="9f5f33b1411cb7c6db0f15c4c16a6ab2" category="list-text">[Capacity Planning Status]ページでステータスを確認します。</block>
-  <block id="7a94cf85dfd3268967bf9069efa1054a" category="summary">NetApp BlueXPのEconomic Efficiency Capacity Planningサービスは、AIを使用してデータ量の増大を予測し、計画プロセスを支援します。</block>
   <block id="55d23e178d63a7dfa5b590a6cfdc18fb" category="doc">容量の問題を確認して修正</block>
-  <block id="d7c0a254666664674f9ad6c2fd88f48c" category="paragraph">キャパシティプランニングでは、現在と予測の両方で、環境内の容量が少ない領域を特定します。NetApp BlueXPのEconomic Efficiencyサービスは、AIを使用してデータ量の増大を予測し、計画プロセスを支援します。Economic Efficiencyサービスは、環境内の容量が少ない領域を特定し、問題の解決方法に関する推奨事項を提供します。</block>
-  <block id="9c4e7ead2b21c6e44b58ba76144a6bc0" category="paragraph">Economic Efficiencyサービスを使用すると、次の目標を達成できます。</block>
   <block id="2aeee6306a492b96e1d8d773a16fa4ee" category="list-text"><block ref="2aeee6306a492b96e1d8d773a16fa4ee" category="inline-link-macro-rx"></block></block>
   <block id="2ca27275f5817357f9b49fd4c102cd3c" category="list-text"><block ref="2ca27275f5817357f9b49fd4c102cd3c" category="inline-link-macro-rx"></block></block>
   <block id="80b117d13aeb1c0337cca44c4f432522" category="inline-link-macro">コールドデータをクラウドストレージに階層化し、ストレージを解放します</block>
   <block id="6cb6b275b6a21c610984fdd0576d0985" category="list-text"><block ref="6cb6b275b6a21c610984fdd0576d0985" category="inline-link-macro-rx"></block></block>
   <block id="05540742fefd5843712472ea58001fdc" category="inline-link-macro">アクションなしを選択し、再度確認するようにリマインダーを設定します</block>
   <block id="6aa45f993ae45f131003be16c292fcd5" category="list-text"><block ref="6aa45f993ae45f131003be16c292fcd5" category="inline-link-macro-rx"></block></block>
-  <block id="eb3a8afdf803a31161961d8982502b08" category="summary">Economic Efficiencyサービスは、予測されるデータ増加量に基づいて推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、予測される容量増加を満たす、資産構成に最適な推奨事項が提示されます。たとえば、コールドデータをクラウドストレージに階層化して容量を解放することを推奨します。これにより、別のBlueXPサービスであるNetApp Cloud Tieringへの接続が開始されます。</block>
-  <block id="1a8a8a7e27fe860678d8b003caf26f05" category="paragraph">そこからデータを階層化し、Economic Efficiencyサービスに簡単に戻って他のシステムに対処できます。</block>
   <block id="6dfd2eb5249f90aef474d30566fea034" category="paragraph">クラウド階層化プロセスには次のプロセスが含まれます。</block>
   <block id="9af7e4f81c745160ce0a259f7f43f225" category="list-text">コネクタを展開します</block>
   <block id="6cb8e477737f0dd67265264d19cc8455" category="list-text">クラスタを検出</block>
@@ -76,7 +68,6 @@
   <block id="b1c12bf1b4a873a9ed5a66b14f7cd39d" category="list-text">次の手順は、BlueXP Connectorを導入済みでクラスタが検出されているかどうかによって異なります。</block>
   <block id="b19f531963f3253bc079919cec81fe72" category="inline-link">コネクタの作成方法</block>
   <block id="c5fbee6586294d81141f8dd158707985" category="inline-link">オンプレミスのONTAP クラスタを検出</block>
-  <block id="4157cf1f48ce41b76be09f4c1cfaa83a" category="paragraph">Economic Efficiencyサービスは、もう1つのNetApp BlueXPサービスであるCloud Tieringサービスへの接続を開始します。</block>
   <block id="fc76487e321b8bd0278a190f0b8bd401" category="list-text">[コネクタの追加]*を選択します。</block>
   <block id="cea9f928dfa7f018d5f69d0b3d5fa567" category="list-text">クラウドプロバイダを選択し、*[続行]*を選択します。</block>
   <block id="6b52a1aec285337477d1fef91d9efaf0" category="list-text">[続行]*または*[導入にスキップ]*を選択します。</block>
@@ -91,25 +82,19 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">[ 保存（ Save ） ] を選択します。</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">結果</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">この時間が経過すると、リスクのリストに再びリスクが表示されます。</block>
-  <block id="6fd2905ce26598c7ca2e328de094f8e5" category="summary">システムの容量不足による不要なダウンタイムを回避するには、キャパシティプランニングが不可欠です。NetApp BlueXP Economic Efficiencyサービスは、容量が少ないクラスタを特定したり、現在の容量と予測される容量についてクラスタを確認したり、CPU利用率、IOPSパフォーマンス、レイテンシのパフォーマンスを確認して容量を修正する機会を特定したりするのに役立ちます。</block>
   <block id="0a0860e9870b3d9fd1d712f2215ee3c8" category="doc">経済効率サービス</block>
   <block id="4386eb2b71427fcf0dcb5cf90640a361" category="doc">経済効率の前提条件</block>
   <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">まず、運用環境、ログイン、ネットワークアクセス、Webブラウザの準備状況を確認します。</block>
-  <block id="6e33118c0758c11cb03b9f31a5db08d3" category="paragraph">Economic Efficiencyサービスを使用するには、環境がすべての要件を満たしていることを確認する必要があります。</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">Webブラウザからのログインやネットワークアクセスなど、BlueXPのすべての要件を満たす環境が必要です。</block>
   <block id="5b13c2584f8e7be6ddae81fa76b103bc" category="inline-link">はじめにチェックリスト</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">クラスタへのアクセスクレデンシャルが必要です。</block>
   <block id="04346ae081b15c5b07fe9620a0a0fae7" category="list-text">必須ではありませんが、BlueXP Connectorが適切に配置されて有効になっていて、ONTAP システムが検出された場合に役立ちます。そうでない場合は、サービスがそれらのプロセスを順を追って説明します。</block>
   <block id="dddec778c9cbb4c6fc3917f4b8148b57" category="list-text">クラウドストレージへのコールドデータの階層化を計画している場合は、クラスタがライセンスごとに対象であることを確認してください。</block>
-  <block id="12ca8dbfdaa9b4c56f8d85ad7f138c07" category="summary">NetApp BlueXP Economic Efficiencyサービスは、数ステップでご利用いただけます。</block>
-  <block id="814007407d7133fd410cd37870c6383d" category="doc">経済効率化サービスのクイックスタート</block>
-  <block id="830b7e45f35fe0e36e3c481588b84752" category="paragraph">ここでは、NetApp BlueXP Economic Efficiencyサービスの利用を開始するために必要な手順の概要を示します。各ステップ内のリンクから、詳細が記載されたページに移動できます。</block>
   <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">1つ</block>
   <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> 前提条件を確認する</block>
   <block id="d73fd850784e1d8dbda69ab3ca51e7cf" category="inline-link-macro">環境がこれらの要件を満たしていることを確認します</block>
   <block id="ced4b743323450a7e7e56480339ef345" category="paragraph"><block ref="3ad9f09af84a8cf38e8d4dc8f0c46658" category="inline-link-macro-rx"></block>。</block>
   <block id="aada29daee1d64ed0fe907043855cb7e" category="inline-image-macro">2 つ</block>
-  <block id="6ddbf50e64bc490c013bb79d7ef91db9" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> 経済効率化サービスを設定します</block>
   <block id="cc6726e02ea7bc25f1ed413652107bdb" category="inline-link-macro">サービスをセットアップする手順を実行します</block>
   <block id="60766643470eca71a0ef352b62e0a838" category="paragraph"><block ref="6ae54feb46cd36301fb1386a964f0be6" category="inline-link-macro-rx"></block>。</block>
   <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">3つ</block>
@@ -122,43 +107,27 @@
   <block id="9da433a276b8c58aa7c1c0c04ac7063c" category="inline-link-macro">必要に応じて、もう一度確認するようにリマインダーを設定します</block>
   <block id="a2e5f6092d9ac64bb72c17d7c802989e" category="list-text"><block ref="13cddad928a54274073f8e0ed02030a0" category="inline-link-macro-rx"></block>。</block>
   <block id="be0b6ed69c50cea3a8eb8459821a798d" category="summary">キャパシティプランニングサービスは、現在または予測される低容量のクラスタを特定し、データ階層化または追加容量（AFF システムの場合）に関する推奨事項を提供します。</block>
-  <block id="896933ed48cce67ed4087b430ddb16f8" category="doc">経済効率化サービスについて説明します</block>
-  <block id="f3109b5786bfed2070b36be8bc1bb35b" category="paragraph">システムの容量不足による不要なダウンタイムを回避するには、キャパシティプランニングが不可欠です。NetApp BlueXP Economic Efficiencyサービスでは、次のことを実現できます。</block>
   <block id="85c4de1369982661e4d2c41a22fe13dc" category="list-text">容量が少ないクラスタを特定します。</block>
   <block id="3113edbae766b82815a0418083057f40" category="list-text">クラスタをレビューして現在の容量と予測される容量を確認します。</block>
   <block id="3206da35a6da359e9140e8c4b0bc7c85" category="list-text">CPU利用率、IOPSパフォーマンス、レイテンシパフォーマンスをレビューして、容量修正の余地を特定します。</block>
-  <block id="13613fbfa0f9baf4b725461c7bf3ba1d" category="paragraph">Economic Efficiencyサービスは、現在または予測される低容量のクラスタを特定し、データ階層化または容量の追加に関する推奨事項（AFF システムの場合）を提供します。容量を追加することを選択した場合は、詳細な推奨事項を記載したリクエストがパートナー様とネットアップの担当者に転送されます。このリクエストには、容量の選択と発注リクエストを簡単に行うために必要な詳細情報が含まれています。</block>
   <block id="73392ce9486f187520554de1730eae2e" category="paragraph">このサービスには、BlueXPの* Governance *カテゴリからアクセスできます。</block>
-  <block id="eb97665ccb9a1430b5b8fafe9cf9b6e2" category="paragraph">経済効率化サービス環境 オンプレミスAFF システムのみ（Unified AFF システムとオールSANアレイシステムを含む）</block>
-  <block id="1d3b9444d74a886014d55cf56d90a53b" category="section-title">経済効率化サービスの利点</block>
-  <block id="a40a4a4bcba7c86c782a83a19a300da5" category="paragraph">Economic Efficiencyサービスには、次のようなメリットがあります。</block>
   <block id="6ebfa87b6f7144251026e89d7ce188ca" category="list-text">容量を追加するための簡単なプロセスを提供します</block>
   <block id="c0990af989044900779cae7e6e736849" category="list-text">お客様の環境の容量の問題に対処するための、信頼できるアドバイザーと推奨事項を提供</block>
   <block id="757f36865bb189e37e6988545be631ca" category="list-text">ストレージの追加計画にかかる時間を短縮します</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">コスト</block>
   <block id="9c303ae8a4f6a61eadb0ef12c9577f18" category="paragraph">ネットアップは、このサービスの利用に対して料金を請求することはありません。コールドデータをクラウドストレージに階層化する場合は、クラウドプロバイダで該当する料金を確認する必要があります。</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">この FAQ は、質問に対する簡単な回答を探している場合に役立ちます。</block>
-  <block id="6c70937c0115ab4e2f5ecd94f5e038b6" category="doc">Economic efficiencyサービスに関するよくある質問</block>
-  <block id="13c245e51d00919eef42b49d6c2da703" category="section-title">経済効率化サービスへのアクセス</block>
-  <block id="420272ee97f66624030c76b88979c8fa" category="paragraph">* BlueXP Economic EfficiencyのURLは何ですか？*</block>
   <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">ライセンス</block>
-  <block id="11b2a6fa33a249973c791f6b3a969986" category="paragraph">*経済効率化サービスを利用するにはライセンスが必要ですか？*</block>
   <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">ネットアップライセンスファイル（NLF）は必要ありません。</block>
-  <block id="13a63836c6280ee1ca39e9108df442b6" category="summary">BlueXPのサービスにアクセスして、Economic Efficiencyサービスを利用しましょう。</block>
-  <block id="1f4141d38268b548a3f91a9a2147767a" category="doc">BlueXPでEconomic Efficiencyサービスにアクセスできます</block>
-  <block id="521fdcb140f7eb926460188fda7cefad" category="paragraph">NetApp BlueXPを使用してEconomic Efficiencyサービスにログインします。</block>
   <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">ログインの詳細については、こちらをご覧ください</block>
   <block id="5975f7e9036c78e6217b16f295f0ca75" category="inline-link">BlueXPコンソール</block>
   <block id="753e3c2055278365db83b605f29d4860" category="paragraph">NetApp BlueXPのログインページが表示されます。</block>
   <block id="ad84736d27b7f84414783598f4ffd0d9" category="list-text">BlueXPにログインします。</block>
   <block id="7482156833e57efa7b936e9aa5221f5a" category="list-text">BlueXPの左側のナビゲーションで、* Governance *&gt;* Economic Efficiency *を選択します。</block>
-  <block id="b2fd854ce4c040cf08b1916480a414da" category="summary">Economic Efficiencyサービスを使用するには、いくつかの手順を実行して設定します。</block>
-  <block id="52c1f76341fb0761166cf4172e9906fa" category="doc">経済効率化サービスを設定します</block>
   <block id="b5b8e67d6a37d24ad73c89e4c7ac8c9e" category="inline-link-macro">前提条件</block>
   <block id="90663bb87b6bec4a92a7b1f0dc5b480d" category="list-text">レビュー <block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> 環境の準備が整っていることを確認します。</block>
   <block id="1835d0517fe4ffa8b6a639fa95e369ad" category="list-text">BlueXPでコネクタを作成します。</block>
   <block id="e676f0c089390ef0b70aea9845c97efa" category="list-text">BlueXPでクラスタを検出します。</block>
-  <block id="29410026b0b724e3f95d019d79d9557a" category="paragraph">BlueXPでコネクタを直接作成し、後のEconomic Efficiencyサービスで使用できます。または、リスク修復プロセスの途中でコネクタを作成することもできます。</block>
   <block id="01688a0e15dc71e56383e08c45b474a3" category="paragraph">同様に、BlueXPを使用して事前にクラスタを検出することも、リスク修正プロセスで検出することもできます。</block>
   <block id="ccaaa0b1fdb9afd84865d38039f74d41" category="section-title">BlueXPでコネクタを作成します</block>
   <block id="0e13adbff2b342064a892a15607f1d16" category="paragraph">BlueXP Connectorには、NetApp ONTAP マシンへのクレデンシャルが含まれています。</block>
@@ -321,20 +290,15 @@
   <block id="1c0e45ef07d0dbc13ca2394d5e285fd7" category="paragraph">NetApp Support Site アカウントを作成したら、BlueXPに移動して、このNSSアカウントを追加して今後の登録を行うことができます。</block>
   <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">ここでは、このリリースのサービスでサポートされていない、またはサービスと正常に相互運用できないプラットフォーム、デバイス、または機能について説明します。</block>
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">制限</block>
-  <block id="e7fd4798be4c58aeff4887e30c88386c" category="summary">Economic Efficiencyサービスは、現在または予測される低容量のクラスタを特定し、データ階層化または容量の追加に関する推奨事項（AFF システムの場合）を提供します。</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">新機能</block>
-  <block id="a249197e3398d741aca4eb631f3d54d0" category="paragraph">Economic Efficiencyサービスの最新情報をご確認ください。</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">2023年4月2日</block>
-  <block id="6a96f2962c3be88d01a2e04f7bb4006f" category="paragraph">新しいEconomic Efficiencyサービスは、容量が現在または予測される低いクラスタを特定し、オンプレミスのAFF システムのデータ階層化や容量の追加に関する推奨事項を提供します。</block>
   <block id="7e0c2cf881384db7bfcfb883b67871a5" category="inline-link-macro">この新しいサービスの詳細については、こちらをご覧ください</block>
   <block id="38532dd1586dac78ea99ce1216e1f352" category="paragraph"><block ref="6e51c6b9ced37d3ad7414d5e4d1ac63a" category="inline-link-macro-rx"></block>。</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">はじめに</block>
-  <block id="22d820436c2ac243ecde2a84af9553bb" category="sidebar">Economic Efficiency Serviceの新機能</block>
   <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">クイックスタート</block>
   <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">前提条件</block>
   <block id="1da54223aacfae99a4874c0e691e9686" category="sidebar">BlueXPでサービスにログインします</block>
   <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">よく寄せられる質問</block>
-  <block id="4fcf09e34994b536f76af7d2532f3bea" category="sidebar">Economic Efficiencyサービスを使用してください</block>
   <block id="bf094ea6ac295bf93e9ed9f735604ae0" category="sidebar">容量ステータスを確認</block>
   <block id="bd427205be5a276d634b96c7cf7398b1" category="sidebar">コールドデータをクラウドストレージに階層化</block>
   <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">ブログとコミュニティ</block>
@@ -356,4 +320,41 @@
   <block id="d2dadcd80abef33f02b8317102f819f0" category="list-text">Webブラウザを開き、にアクセスします<block ref="4d9841a08a6f1c082f5ba73c5d87fcc1" category="inline-link-rx"></block>。</block>
   <block id="32ed92d70b140ee92a015de26f8ca076" category="paragraph">サービスを使用する前にBlueXPでコネクタを作成する方法については、該当するBlueXPのドキュメントを参照してください<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>。</block>
   <block id="d537b3bbd8539d0832f2526fedeaa9c0" category="paragraph">サービスを使用する前の手順については、を参照してください<block ref="6585a34a169ce9e8b8f4633a3f458722" category="inline-link-rx"></block>。</block>
+  <block id="fbd53e396987285cf235247a34844e9e" category="summary">クラスタの容量が現在のしきい値（70%）を下回っているか、しきい値（70%）を下回っていると予測される場合は、Economic Efficiencyサービスによって容量が不足しているリソースとみなされ、アラートが生成されます。</block>
+  <block id="8af833df2a0f92402b5b5db4903721da" category="paragraph">クラスタの容量が現在のしきい値（70%）を下回っているか、しきい値（70%）を下回っていると予測される場合は、Economic Efficiencyサービスによって容量が不足しているリソースとみなされ、アラートが生成されます。また、Economic Efficiencyサービスでは、データを階層化するか容量を追加するかを推奨します。</block>
+  <block id="a53148ee8712975fc57be46589bc8da7" category="summary">Economic Efficiencyサービスは、予測されるデータ増加量に基づいて、AFF システムに関する推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、容量の増加予測を満たす、資産構成に最適な推奨事項が提示されます。</block>
+  <block id="d171b7e73c5f2dfd5aa6af3cf856c062" category="summary">NetApp BlueXPの経済的効率性キャパシティプランニングサービスは、AIを使用してデータ量の増大を予測し、計画プロセスを支援します。</block>
+  <block id="41da446d1155100dfeb1aed1576bf390" category="paragraph">キャパシティプランニングでは、現在と予測の両方で、環境内の容量が少ない領域を特定します。NetApp BlueXPの経済効率化サービスでは、AIを使用してデータ量の増大を予測し、計画プロセスを支援します。Economic Efficiencyサービスは、お客様の環境内にあるこれらの容量の少ない領域を特定し、問題の解決方法に関する推奨事項を提供します。</block>
+  <block id="0a4a0858eb93014667524a512d567db2" category="paragraph">Economic Efficiencyサービスを使用すると、次の目標を達成できます。</block>
+  <block id="afb34d950bc4701e1ca377043626dd7f" category="summary">経済効率化サービスは、予測されるデータ増加量に基づいて推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、予測される容量増加を満たす、資産構成に最適な推奨事項が提示されます。たとえば、コールドデータをクラウドストレージに階層化して容量を解放することを推奨します。これにより、別のBlueXPサービスであるNetApp Cloud Tieringへの接続が開始されます。</block>
+  <block id="43a88d3acb500eacf8827be889290b78" category="paragraph">そこから、データを階層化して経済効率化サービスに簡単に戻ることができ、他のシステムでアクションを実行できます。</block>
+  <block id="17059fe74360229e879a759843201d70" category="paragraph">Economic Efficiencyサービスは、もう1つのNetApp BlueXPサービスであるCloud Tieringサービスへの接続を開始します。</block>
+  <block id="8fea032899ecd07fc90802e814c217b4" category="summary">システムの容量不足による不要なダウンタイムを回避するには、キャパシティプランニングが不可欠です。NetApp BlueXPのEconomic Efficiencyサービスは、容量が少ないクラスタを特定し、現在の容量と予測される容量についてクラスタを確認し、CPU利用率、IOPSパフォーマンス、レイテンシパフォーマンスを確認して容量を修正する機会を特定するのに役立ちます。</block>
+  <block id="ab64efe8ea6517b4d4f5995878949be8" category="summary">環境がサポートされているかどうか、ネットワークアクセス、ログイン、Webブラウザを確認することで、BlueXPの経済性を最大限に引き出すことができます。</block>
+  <block id="e15b5e0d1a3f0c5ba311a07635b7e217" category="paragraph">経済効率化サービスを使用するには、環境がすべての要件を満たしていることを確認する必要があります。</block>
+  <block id="501089da83496a12da7846c949b29a52" category="summary">NetApp BlueXPのEconomic Efficiencyサービスは、わずかな手順でご利用いただけます。</block>
+  <block id="f67a49063476dac82e6bea21e4339573" category="doc">経済効率化サービスのクイックスタート</block>
+  <block id="b22b3b0df44e737562c6641ace27c49b" category="paragraph">ここでは、NetApp BlueXPのEconomic Efficiencyサービスの利用を開始するために必要な手順の概要を示します。各ステップ内のリンクから、詳細が記載されたページに移動できます。</block>
+  <block id="aaa9c54233f5e7b76837549c4c1bbc28" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> 経済効率化サービスを設定します</block>
+  <block id="2d6fa3cc18d11dd7de03378659737f52" category="doc">経済効率化サービスについて学びます</block>
+  <block id="2ded2a84885e7c50040c1fe60311f4b3" category="paragraph">システムの容量不足による不要なダウンタイムを回避するには、キャパシティプランニングが不可欠です。NetApp BlueXPのEconomic Efficiencyサービスには、次のようなメリットがあります。</block>
+  <block id="7ed6d7b061cb6f992eb982a9f7ba88bc" category="paragraph">経済効率化サービスは、現在または予測される低容量のクラスタを特定し、データ階層化または容量の追加（AFF システムの場合）に関する推奨事項を提供します。容量を追加することを選択した場合は、詳細な推奨事項を記載したリクエストがパートナー様とネットアップの担当者に転送されます。このリクエストには、容量の選択と発注リクエストを簡単に行うために必要な詳細情報が含まれています。</block>
+  <block id="b2b088cef491a4f1c797cf1b3e120387" category="paragraph">経済効率化サービス環境 オンプレミスAFF システムのみ（Unified AFF システムとオールSANアレイシステムを含む）</block>
+  <block id="942ba0f6ea6d830dd4fd89a3a73e6f67" category="section-title">経済効率サービスの利点</block>
+  <block id="54a0de45d377bd0d1d4a56763b979d36" category="paragraph">経済効率化サービスには、次のようなメリットがあります。</block>
+  <block id="0df5c13966c618a22fbba4fb040d381a" category="doc">経済効率化サービスに関するよくある質問</block>
+  <block id="88804581e6ce821aa2b70464105e11f8" category="section-title">経済効率サービスへのアクセス</block>
+  <block id="ab56773ec54d1f5da941c2a5911ab633" category="paragraph">* BlueXPのEconomic Efficiency URLは何ですか？*</block>
+  <block id="1dc7bcd22f2ba6af88f86d6438c4cfbf" category="paragraph">*経済効率化サービスを利用するにはライセンスが必要ですか？*</block>
+  <block id="0219b3ff65cf0d583bb7e8912368a1a7" category="summary">BlueXPのサービスにアクセスして、Economic Efficiencyサービスを利用しましょう。</block>
+  <block id="6ff6f7363eac188c813717945e80f242" category="doc">BlueXPのEconomic Efficiencyサービスにアクセスできます</block>
+  <block id="e4ceda68ed2ad1c8b6de4d9499487b31" category="paragraph">NetApp BlueXPを使用してEconomic Efficiencyサービスにログインします。</block>
+  <block id="0abe2c8bae7cad710a4ad886e3ee0d0a" category="summary">経済効率化サービスを使用するには、いくつかの手順を実行して設定します。</block>
+  <block id="3088e97bad860ce6779b76a124c78ae0" category="doc">経済効率化サービスを設定します</block>
+  <block id="07089c4727f83059c9b5e357d73e88a2" category="paragraph">BlueXPでコネクタを直接作成し、後のEconomic Efficiencyサービスで使用できます。または、リスク修復プロセスの途中でコネクタを作成することもできます。</block>
+  <block id="6f4e3d42913669cfb6fa734eeb1bb64a" category="summary">経済効率化サービスは、現在または予測される低容量のクラスタを特定し、データ階層化または容量の追加（AFF システムの場合）に関する推奨事項を提供します。</block>
+  <block id="5e7b046dc9daacb3eb94996563205d67" category="paragraph">経済効率化サービスの最新情報をご確認ください。</block>
+  <block id="754eb66320ee2d41917d70a6a0cd125b" category="paragraph">新しい経済効率化サービスでは、現在または予測される容量の少ないクラスタを特定し、オンプレミスのAFF システムのデータ階層化や容量の追加に関する推奨事項を提供します。</block>
+  <block id="0d444fc1d4812b98559f9cc39f5fd31f" category="sidebar">経済効率化サービスの新機能です</block>
+  <block id="13a808531c1289bcc88bebc003bfcc72" category="sidebar">経済効率化サービスを利用してください</block>
 </blocks>

@@ -4,7 +4,7 @@ permalink: get-started/faq.html
 keywords: economic efficiency faq, economic efficiency frequently asked questions 
 summary: この FAQ は、質問に対する簡単な回答を探している場合に役立ちます。 
 ---
-= Economic efficiencyサービスに関するよくある質問
+= 経済効率化サービスに関するよくある質問
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -16,9 +16,9 @@ summary: この FAQ は、質問に対する簡単な回答を探している場
 
 
 
-== 経済効率化サービスへのアクセス
+== 経済効率サービスへのアクセス
 
-* BlueXP Economic EfficiencyのURLは何ですか？*
+* BlueXPのEconomic Efficiency URLは何ですか？*
 
 URLの場合は、ブラウザで次のように入力します。 https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^] をクリックしてBlueXPコンソールにアクセスします。
 

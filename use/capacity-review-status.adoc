@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning 
-summary: 環境がサポートされているかどうか、ネットワークアクセス、ログイン、Webブラウザを確認して、BlueXPのEconomic Efficiencyを活用しましょう。 
+summary: 'クラスタの容量が現在のしきい値（70%）を下回っているか、しきい値（70%）を下回っていると予測される場合は、Economic Efficiencyサービスによって容量が不足しているリソースとみなされ、アラートが生成されます。' 
 ---
 = キャパシティプランニングのステータスを確認します
 :hardbreaks:

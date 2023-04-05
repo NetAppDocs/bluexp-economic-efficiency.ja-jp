@@ -4,7 +4,7 @@ permalink: get-started/capacity-login.html
 keywords: bluexp login, capacity planning log in 
 summary: BlueXPのサービスにアクセスして、Economic Efficiencyサービスを利用しましょう。 
 ---
-= BlueXPでEconomic Efficiencyサービスにアクセスできます
+= BlueXPのEconomic Efficiencyサービスにアクセスできます
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

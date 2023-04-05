@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: get-started/quick-start.html 
 keywords: how to get started with bluexp economic efficiency, economic efficiency quick start, capacity planning 
-summary: NetApp BlueXP Economic Efficiencyサービスは、数ステップでご利用いただけます。 
+summary: NetApp BlueXPのEconomic Efficiencyサービスは、わずかな手順でご利用いただけます。 
 ---
 = 経済効率化サービスのクイックスタート
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: NetApp BlueXP Economic Efficiencyサービスは、数ステップで�
 
 
 [role="lead"]
-ここでは、NetApp BlueXP Economic Efficiencyサービスの利用を開始するために必要な手順の概要を示します。各ステップ内のリンクから、詳細が記載されたページに移動できます。
+ここでは、NetApp BlueXPのEconomic Efficiencyサービスの利用を開始するために必要な手順の概要を示します。各ステップ内のリンクから、詳細が記載されたページに移動できます。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["1つ"] 前提条件を確認する
 [role="quick-margin-para"]

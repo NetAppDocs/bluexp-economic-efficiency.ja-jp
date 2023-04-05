@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: get-started/capacity-setup.html 
 keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
-summary: Economic Efficiencyサービスを使用するには、いくつかの手順を実行して設定します。 
+summary: 経済効率化サービスを使用するには、いくつかの手順を実行して設定します。 
 ---
 = 経済効率化サービスを設定します
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: Economic Efficiencyサービスを使用するには、いくつかの�
 
 
 [role="lead"]
-Economic Efficiencyサービスを使用するには、いくつかの手順を実行して設定します。
+経済効率化サービスを使用するには、いくつかの手順を実行して設定します。
 
 * レビュー link:../get-started/prerequisites.html["前提条件"] 環境の準備が整っていることを確認します。
 * BlueXPでコネクタを作成します。
