@@ -18,7 +18,7 @@ summary: 環境がサポートされているかどうか、ネットワーク�
 
 * Webブラウザからのログインやネットワークアクセスなど、BlueXPのすべての要件を満たす環境が必要です。
 +
-BlueXPを参照してください https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["はじめにチェックリスト"^]。
+を参照してください https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-quick-start-standard-mode.html["BlueXPクイックスタート"^] および https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-networking-saas-console.html["BlueXPのネットワーク情報"^]。
 
 * クラスタへのアクセスクレデンシャルが必要です。
 * 必須ではありませんが、BlueXP Connectorが適切に配置されて有効になっていて、ONTAP システムが検出された場合に役立ちます。そうでない場合は、サービスがそれらのプロセスを順を追って説明します。
