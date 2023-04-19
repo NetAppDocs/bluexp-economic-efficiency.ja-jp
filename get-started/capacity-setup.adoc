@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/capacity-setup.html 
 keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
-summary: 経済効率化サービスを使用するには、いくつかの手順を実行して設定します。 
+summary: BlueXPの経済性を活用するには、いくつかの手順を実行してセットアップします。 
 ---
-= 経済効率化サービスを設定します
+= BlueXPの経済性を最大限に高めましょう
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,16 +12,16 @@ summary: 経済効率化サービスを使用するには、いくつかの手�
 
 
 [role="lead"]
-経済効率化サービスを使用するには、いくつかの手順を実行して設定します。
+BlueXPの経済性を活用するには、いくつかの手順を実行してセットアップします。
 
 * レビュー link:../get-started/prerequisites.html["前提条件"] 環境の準備が整っていることを確認します。
 * BlueXPでコネクタを作成します。
 * BlueXPでクラスタを検出します。
 
 
-BlueXPでコネクタを直接作成し、後のEconomic Efficiencyサービスで使用できます。または、リスク修復プロセスの途中でコネクタを作成することもできます。
+コネクタはBlueXPで直接作成し、後のBlueXPの経済性向上機能で使用できます。または、容量修正プロセスの途中でコネクタを作成することもできます。
 
-同様に、BlueXPを使用して事前にクラスタを検出することも、リスク修正プロセスで検出することもできます。
+同様に、BlueXPを使用して事前にクラスタを検出することも、容量修正プロセスで検出することもできます。
 
 
 

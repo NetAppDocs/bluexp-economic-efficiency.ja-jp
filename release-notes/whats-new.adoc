@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
-keywords: economic efficiency faq, economic efficiency frequently asked questions 
-summary: Economic Efficiencyサービスは、現在または予測される低容量の資産を特定し、データ階層化または容量の追加に関する推奨事項を提供します（AFF システムの場合）。 
+keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions 
+summary: BlueXPの経済性：現在または予測される低容量の資産を特定し、データの階層化や容量の追加に関する推奨事項（AFF システムの場合）を提供します。 
 ---
 = 新機能
 :hardbreaks:
@@ -12,12 +12,12 @@ summary: Economic Efficiencyサービスは、現在または予測される低�
 
 
 [role="lead"]
-経済効率化サービスの最新情報をご確認ください。
+BlueXPの経済性に関する最新情報をご紹介します。
 
 
 
 == 2023年4月2日
 
-新しい経済効率化サービスでは、現在または予測されている容量が少ないストレージ資産を特定し、オンプレミスのAFF システムのデータ階層化や容量の追加に関する推奨事項を提供します。
+新しいBlueXPの経済効率化サービスは、現在または予測されている容量が少ないストレージ資産を特定し、オンプレミスのAFF システムのデータ階層化や容量の追加に関する推奨事項を提供します。
 
-link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["この新しいサービスの詳細については、こちらをご覧ください"]。
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["BlueXPの経済性に関する詳細はこちらをご覧ください"]。

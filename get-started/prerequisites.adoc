@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/prerequisites.html 
 keywords: what are bluexp economic efficiency requirements, economic efficiency prerequisites 
-summary: 環境がサポートされているかどうか、ネットワークアクセス、ログイン、Webブラウザを確認することで、BlueXPの経済性を最大限に引き出すことができます。 
+summary: 環境がサポートされているかどうか、ネットワークアクセス、ログイン、Webブラウザを確認して、BlueXPの経済性を最大限に引き出しましょう。 
 ---
-= 経済効率の前提条件
+= BlueXPの経済効率化の前提条件
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -14,7 +14,7 @@ summary: 環境がサポートされているかどうか、ネットワーク�
 [role="lead"]
 まず、運用環境、ログイン、ネットワークアクセス、Webブラウザの準備状況を確認します。
 
-経済効率化サービスを使用するには、環境がすべての要件を満たしていることを確認する必要があります。
+Blueの経済効率を使用するには、環境がすべての要件を満たしていることを確認する必要があります。
 
 * Webブラウザからのログインやネットワークアクセスなど、BlueXPのすべての要件を満たす環境が必要です。
 +
