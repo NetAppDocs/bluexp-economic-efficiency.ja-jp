@@ -313,7 +313,6 @@
   <block id="71bd4794c020a7645a4cfe74173f4058" category="doc">BlueXPの優れた経済性</block>
   <block id="7372cb38b352714605614895b4902bd6" category="summary">環境がサポートされているかどうか、ネットワークアクセス、ログイン、Webブラウザを確認して、BlueXPの経済性を最大限に引き出しましょう。</block>
   <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">BlueXPの経済効率化の前提条件</block>
-  <block id="2058bc2a64f08d83b90f6c8bacfeb33c" category="paragraph">Blueの経済効率を使用するには、環境がすべての要件を満たしていることを確認する必要があります。</block>
   <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">BlueXPのサービスにアクセスして、BlueXPの経済性を活用しましょう。</block>
   <block id="a367ed9be142be10a959a44919e5f2e2" category="doc">BlueXPの経済性を最大限に引き出す</block>
   <block id="3f631ba896c1faab92fa6644538f2fdd" category="summary">BlueXPの経済効率化サービスは、容量が現在または予測される低いクラスタを特定し、データの階層化や容量の追加（AFF システムの場合）に関する推奨事項を提供します。</block>
@@ -359,4 +358,5 @@
   <block id="d4a184baad527c4d76864b1bd61040ed" category="sidebar">BlueXPのEconomic Efficiency機能にログイン</block>
   <block id="f65eafc37ceb7865c90318dc460588b6" category="sidebar">BlueXPの優れた経済性を活用</block>
   <block id="a8cb12aeeba055d38bbada7b5b51b760" category="sidebar">BlueXPのEconomic Efficiencyに関するドキュメント</block>
+  <block id="328ca69db7afb3bf526a93cf02e334f5" category="paragraph">BlueXPの経済性を活用するには、環境がすべての要件を満たしていることを確認する必要があります。</block>
 </blocks>
