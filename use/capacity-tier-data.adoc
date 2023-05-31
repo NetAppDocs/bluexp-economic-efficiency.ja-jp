@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-tier-data.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
-summary: BlueXPの経済効率化サービスは、予測されるデータ増加量に基づいて推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、予測される容量増加を満たす、資産構成に最適な推奨事項が提示されます。たとえば、コールドデータをクラウドストレージに階層化して容量を解放することを推奨します。これにより、別のBlueXPサービスであるNetApp Cloud Tieringへの接続が開始されます。 
+summary: BlueXPの経済効率化サービスは、予測されるデータ増加量に基づいて推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、予測される容量増加を満たす、資産構成に最適な推奨事項が提示されます。たとえば、コールドデータをクラウドストレージに階層化して容量を解放することを推奨します。これにより、別のBlueXPサービスであるBlueXP階層化への接続が開始されます。 
 ---
 = コールドデータをクラウドストレージに階層化し、ストレージを解放します
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: BlueXPの経済効率化サービスは、予測されるデータ増�
 
 
 [role="lead"]
-BlueXPの経済的効率化機能は、予測されるデータ増加量に基づいて推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、予測される容量増加を満たす、ストレージ資産の構成に最適な推奨事項が提示されます。たとえば、コールドデータをクラウドストレージに階層化して容量を解放することを推奨します。これにより、別のBlueXPサービスであるNetApp BlueXP階層化（Cloud Tiering）への接続が開始されます。
+BlueXPの経済的効率化機能は、予測されるデータ増加量に基づいて推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、予測される容量増加を満たす、ストレージ資産の構成に最適な推奨事項が提示されます。たとえば、コールドデータをクラウドストレージに階層化して容量を解放することを推奨します。これにより、もう1つのBlueXPサービスであるNetApp BlueXP階層化への接続が開始されます。
 
 そこからデータを階層化し、BlueXPの経済性に簡単に戻って他のシステムに対処できます。
 
@@ -29,8 +29,8 @@ BlueXPの経済的効率化機能は、予測されるデータ増加量に基�
 . [コールドデータを階層化]*を選択します。
 . 次の手順は、BlueXP Connectorを導入済みでクラスタが検出されているかどうかによって異なります。
 +
-** BlueXPコネクタを導入する必要がある場合は、該当するBlueXPのドキュメントを参照してください https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コネクタの作成方法"^]。それ以外の場合は、既にコネクタをデプロイしている場合、コネクタをデプロイするオプションは表示されません。
-** サービスでクラスタを検出する必要がある場合は、を参照してください https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["オンプレミスのONTAP クラスタを検出"^]。そうしないと、クラスタがすでに検出されている場合、クラスタを検出するオプションは表示されません。
+** BlueXPコネクタを導入する必要がある場合は、該当するBlueXPのドキュメントを参照してください https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["コネクタの作成方法"^]。それ以外の場合は、既にコネクタをデプロイしている場合、コネクタをデプロイするオプションは表示されません。
+** サービスでクラスタを検出する必要がある場合は、を参照してください https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["オンプレミスのONTAP クラスタを検出"^]。そうしないと、クラスタがすでに検出されている場合、クラスタを検出するオプションは表示されません。
 
 
 +
@@ -44,6 +44,6 @@ BlueXPの優れた経済性により、BlueXP階層化サービスへの接続�
 
 . クラスタが検出されたら、階層化をセットアップします。
 +
-階層化の詳細については、を参照してください https://docs.netapp.com/us-en/cloud-manager-tiering/index.html["BlueXP階層化ドキュメント"^]。
+階層化の詳細については、を参照してください https://docs.netapp.com/us-en/bluexp-tiering/index.html["BlueXP階層化ドキュメント"^]。
 
 

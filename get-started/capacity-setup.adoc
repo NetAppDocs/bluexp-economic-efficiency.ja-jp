@@ -29,7 +29,7 @@ BlueXPの経済性を活用するには、いくつかの手順を実行して�
 
 BlueXP Connectorには、NetApp ONTAP マシンへのクレデンシャルが含まれています。
 
-サービスを使用する前にBlueXPでコネクタを作成する方法については、該当するBlueXPのドキュメントを参照してください https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コネクタの作成方法"^]。
+サービスを使用する前にBlueXPでコネクタを作成する方法については、該当するBlueXPのドキュメントを参照してください https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["コネクタの作成方法"^]。
 
 
 
@@ -37,4 +37,4 @@ BlueXP Connectorには、NetApp ONTAP マシンへのクレデンシャルが含
 
 セットアップの一環として、BlueXPでクラスタ名、IP、ユーザ名、パスワードを特定します。
 
-サービスを使用する前の手順については、を参照してください https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["オンプレミスのONTAP クラスタを検出"^]。
+サービスを使用する前の手順については、を参照してください https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["オンプレミスのONTAP クラスタを検出"^]。

@@ -152,7 +152,6 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*添付ファイル（オプション）*：一度に1つずつ、最大5つの添付ファイルをアップロードできます。</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">添付ファイルはファイルあたり25 MBに制限されています。サポートされているファイル拡張子は、txt、log、pdf、jpg/jpeg、rtf、 doc/docx、xls/xlsx、およびcsv。</block>
   <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">ネットアップサポートでケースを作成できるケースの作成フォームのスクリーンショット。</block>
-  <block id="a2ff30886e1baf1e7d5045b5fc24f5b9" category="paragraph"><block ref="a2ff30886e1baf1e7d5045b5fc24f5b9" category="inline-image-macro-rx" type="image"></block></block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完了後</block>
   <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">ポップアップにサポートケース番号が表示されます。ネットアップのサポート担当者がケースを確認し、すぐに対応させていただきます。</block>
   <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">サポートケースの履歴を確認するには、[*設定]、[タイムライン*]の順にクリックして、[サポートケースの作成]という名前のアクションを探します。 右端のボタンをクリックすると、アクションを展開して詳細を表示できます。</block>
@@ -178,32 +177,23 @@
   <block id="27635a52fe4c34c39ffc6430f4244ec6" category="list-text">[Organization's Cases]*で[View]*をクリックすると、会社に関連付けられているすべてのケースが表示されます。</block>
   <block id="059e856250b59be3069246887b74a23c" category="list-text">正確な日付範囲を選択するか、別の期間を選択して、日付範囲を変更します。</block>
   <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">[Case Management]ページのテーブルの上にあるオプションのスクリーンショット。正確な日付範囲、または過去7日、30日、または3カ月を選択できます。</block>
-  <block id="7fcba8aeefa9960d3fc3fa08b360ba2e" category="paragraph"><block ref="7fcba8aeefa9960d3fc3fa08b360ba2e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">列の内容をフィルタリングします。</block>
   <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">[Status]列のフィルタオプションのスクリーンショット。[Active]や[Closed]など、特定のステータスに一致するケースを除外できます。</block>
-  <block id="37709be3a43df07d5975287545d0ba12" category="paragraph"><block ref="37709be3a43df07d5975287545d0ba12" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">テーブルに表示されるプラスアイコン</block>
-  <block id="1614dc8e47c0492434152c990d6c1040" category="list-text">をクリックして、テーブルに表示される列を変更します <block ref="effeab06130cddc8360822b2b706805b" category="inline-image-macro-rx" type="image"></block> 次に、表示する列を選択します。</block>
   <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">表に表示できる列を示すスクリーンショット。</block>
-  <block id="5de408d7cbad49634fb25f9047498132" category="paragraph"><block ref="5de408d7cbad49634fb25f9047498132" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">テーブルの最後の列に表示される3つの点を持つアイコン</block>
-  <block id="98efef1c8a47ed5791b41944e8ff4ec2" category="list-text">をクリックして既存のケースを管理します <block ref="a0b152b50a56901a75affebabc26ed61" category="inline-image-macro-rx" type="image"></block> 使用可能なオプションのいずれかを選択します。</block>
   <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*ケースの表示*:特定のケースの詳細を表示します。</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*ケースノートの更新*：問題の詳細を入力するか、*ファイルのアップロード*を選択して最大5つのファイルを添付します。</block>
   <block id="f791bc685c526af8296381acff10f6a0" category="list-text">*ケースをクローズ*：ケースをクローズする理由の詳細を入力し、*ケースをクローズ*をクリックします。</block>
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">テーブルの最後の列でメニューを選択した後に実行できる操作を示すスクリーンショット。</block>
-  <block id="e9a5c374fb47ed2ae5cc6108fb36d829" category="paragraph"><block ref="e9a5c374fb47ed2ae5cc6108fb36d829" category="inline-image-macro-rx" type="image"></block></block>
   <block id="243263104c829e77835d632f591230d5" category="summary">ネットアップテクニカルサポートでサポートケースをオープンするには、まずNetApp Support Site アカウントをBlueXPに追加し、サポートに登録する必要があります。</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">サポートに登録します</block>
   <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">ネットアップテクニカルサポートでサポートケースをオープンするには、まずNetApp Support Site （NSS）アカウントをBlueXPに追加し、サポートに登録する必要があります。</block>
   <block id="0375f4855be072c7d856a0233cc21de9" category="section-title">クラウドプロバイダソリューションのサポート</block>
   <block id="be845c219bb74b14349ffa6e27e7aef3" category="paragraph">BlueXPに統合した次のクラウドプロバイダソリューションのテクニカルサポートについては、その製品のBlueXPマニュアルの「困ったときは」を参照してください。</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">ONTAP 対応の Amazon FSX</block>
-  <block id="5bf5309465f91318228a7f956b826348" category="list-text"><block ref="5bf5309465f91318228a7f956b826348" category="inline-link-macro-rx"></block></block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files の特長</block>
-  <block id="0e2bc9c853e0af52ead12823c025e58b" category="list-text"><block ref="0e2bc9c853e0af52ead12823c025e58b" category="inline-link-macro-rx"></block></block>
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">Cloud Volumes Service for Google Cloud</block>
-  <block id="02efcbea18b9485a78a41871dce1e64d" category="list-text"><block ref="02efcbea18b9485a78a41871dce1e64d" category="inline-link-macro-rx"></block></block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">サポート登録の概要</block>
   <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">サポート資格を有効にする登録には、次の2つの形式があります。</block>
   <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">BlueXPアカウントIDサポートサブスクリプションの登録(BlueXPの[サポートリソース]ページにある20桁の960xxxxxxxxxシリアル番号)。</block>
@@ -226,7 +216,6 @@
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">パートナーアカウントまたはリセラーアカウントをお持ちの場合は、1つ以上のNSSアカウントを追加することはできますが、お客様レベルのアカウントと一緒に追加することはできません。</block>
   <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">BlueXPコンソールの右上にある[ヘルプ]アイコンをクリックし、[*Support*]を選択します。</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">[ ヘルプ ] メニューのスクリーンショット。サポートは最初に表示されるオプションです</block>
-  <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">[*NSS Management] &gt; [Add NSS Account*] をクリックします。</block>
   <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">メッセージが表示されたら、 [* Continue （続行） ] をクリックして Microsoft ログインページにリダイレクトします。</block>
   <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">ネットアップは、サポートとライセンスに固有の認証サービスのアイデンティティプロバイダとして Microsoft Azure Active Directory を使用しています。</block>
@@ -238,8 +227,6 @@
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">既存のお客様レベルのNSSアカウントがあり、パートナーレベルのアカウントを追加しようとする場合も同様です。</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">ログインに成功すると、ネットアップはNSSのユーザ名を保存します。</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">3つの水平ドットのアイコン</block>
-  <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">これはシステムによって生成されたIDで、電子メールにマッピングされます。[*NSS Management*]ページで、から電子メールを表示できます <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> メニュー。</block>
-  <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">ログイン認証情報トークンを更新する必要がある場合は、の[認証情報の更新*]オプションも使用できます <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> メニュー。</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">このオプションを使用すると、再度ログインするように求められます。これらのアカウントのトークンは90日後に期限切れになります。このことを通知する通知が投稿されます。</block>
   <block id="ad56c7289bc13dcf4f78c285f7f03878" category="section-title">ネットアップに登録してください</block>
   <block id="f1bac79c2c71fbd93863b9fbd718094c" category="paragraph">ネットアップサポートへの登録方法は、NetApp Support Site （NSS）アカウントがあるかどうかによって異なります。</block>
@@ -248,7 +235,6 @@
   <block id="25b94e7b58140f12be91fa8fd935fa59" category="list-text">NSSアカウントをまだ追加していない場合は、BlueXPに追加します。</block>
   <block id="819aff12752b7e6a1828e755c7664de7" category="list-text">[*リソース]ページで、[*サポートに登録*]をクリックします。</block>
   <block id="e8a3d9970b8fc1d92caaf33d9e116bd4" category="inline-image-macro">アカウントのシリアル番号と[サポートに登録]オプションを示すスクリーンショット</block>
-  <block id="113f9cd7bac6f4faa6b8d58e3e099a8e" category="paragraph"><block ref="113f9cd7bac6f4faa6b8d58e3e099a8e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">NSSアカウントを持たない既存のお客様</block>
   <block id="cc1d3c161bcf25e6445c2fc771647849" category="paragraph">既存のライセンスとシリアル番号をお持ちで、_no-NSSアカウントをお持ちのネットアップのお客様は、NSSアカウントを作成するだけで十分です。</block>
   <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">NetApp Support Site ユーザー登録フォーム</block>
@@ -258,7 +244,6 @@
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">ネットアップのソリューションを初めて導入する場合は</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">ネットアップ製品を初めてご利用になり、NSSアカウントをお持ちでない場合は、以下の手順に従ってください。</block>
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">サポート登録ページでアカウントIDのシリアル番号を確認します。</block>
-  <block id="ef5e63bb6b6827440a13cc2ec7e9cf56" category="paragraph"><block ref="ef5e63bb6b6827440a13cc2ec7e9cf56" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">ネットアップサポート登録サイト</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">に移動します<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> 「*ネットアップ登録のお客様ではありません*」を選択します。</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">必須フィールドに入力します（赤いアスタリスクのフィールド）。</block>
@@ -288,14 +273,9 @@
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知識とサポート</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">リリースノート</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新機能</block>
-  <block id="7be96b4ca359bc2359930aa3a6d438b4" category="list-text">BlueXPコネクタを導入する必要がある場合は、該当するBlueXPのドキュメントを参照してください<block ref="f37c27b416a77e228b720482dd851ebe" category="inline-link-rx"></block>。それ以外の場合は、既にコネクタをデプロイしている場合、コネクタをデプロイするオプションは表示されません。</block>
-  <block id="772c39bb5555b5d35ca544c93da0583f" category="list-text">サービスでクラスタを検出する必要がある場合は、を参照してください<block ref="6585a34a169ce9e8b8f4633a3f458722" category="inline-link-rx"></block>。そうしないと、クラスタがすでに検出されている場合、クラスタを検出するオプションは表示されません。</block>
   <block id="942a771213d3b59ba27960f61d97b1ac" category="inline-link"><block ref="942a771213d3b59ba27960f61d97b1ac" category="inline-link-rx"></block></block>
   <block id="97196dcbb301c06780e3699ce570a095" category="paragraph">URLの場合は、ブラウザで次のように入力します。<block ref="6db7b50bf17b27cbede9f07c4fbc973e" category="inline-link-rx"></block> をクリックしてBlueXPコンソールにアクセスします。</block>
-  <block id="137f465ff17e307c6d821b8f1d37049b" category="paragraph">BlueXPにログインするには、NetApp Support Site のクレデンシャルを使用するか、Eメールとパスワードを使用してネットアップクラウドへのログインにサインアップします。<block ref="83012c4a40bb3321733997744c83daa9" category="inline-link-rx"></block>。</block>
   <block id="d2dadcd80abef33f02b8317102f819f0" category="list-text">Webブラウザを開き、にアクセスします<block ref="4d9841a08a6f1c082f5ba73c5d87fcc1" category="inline-link-rx"></block>。</block>
-  <block id="32ed92d70b140ee92a015de26f8ca076" category="paragraph">サービスを使用する前にBlueXPでコネクタを作成する方法については、該当するBlueXPのドキュメントを参照してください<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>。</block>
-  <block id="d537b3bbd8539d0832f2526fedeaa9c0" category="paragraph">サービスを使用する前の手順については、を参照してください<block ref="6585a34a169ce9e8b8f4633a3f458722" category="inline-link-rx"></block>。</block>
   <block id="fbd53e396987285cf235247a34844e9e" category="summary">クラスタの容量が現在のしきい値（70%）を下回っているか、しきい値（70%）を下回っていると予測される場合は、Economic Efficiencyサービスによって容量が不足しているリソースとみなされ、アラートが生成されます。</block>
   <block id="a53148ee8712975fc57be46589bc8da7" category="summary">Economic Efficiencyサービスは、予測されるデータ増加量に基づいて、AFF システムに関する推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、容量の増加予測を満たす、資産構成に最適な推奨事項が提示されます。</block>
   <block id="d171b7e73c5f2dfd5aa6af3cf856c062" category="summary">NetApp BlueXPの経済的効率性キャパシティプランニングサービスは、AIを使用してデータ量の増大を予測し、計画プロセスを支援します。</block>
@@ -306,7 +286,6 @@
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">BlueXPクイックスタート</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">BlueXPのネットワーク情報</block>
-  <block id="ab38a54ae4da8a4cab463c7bb64ef70a" category="paragraph">を参照してください<block ref="4b1866f17dc6bd66f88d9d6839084df6" category="inline-link-rx"></block> および<block ref="8b2e3c99c244ff11d22f3c561bd167b2" category="inline-link-rx"></block>。</block>
   <block id="6a38b1e28c18e6b4edeb4e7b0818a2d7" category="list-text">環境内の容量が少なくなっているストレージ資産を特定します。</block>
   <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">現在の容量と予測される容量のアセットを確認します。</block>
   <block id="eccbf2d005133654fdaff166311ce0c9" category="summary">システムの容量不足による不要なダウンタイムを回避するには、キャパシティプランニングが不可欠です。BlueXPの経済的効率化機能は、容量が少ないクラスタを特定し、現在の容量と予測される容量についてクラスタを確認し、CPU利用率、IOPSパフォーマンス、レイテンシパフォーマンスを確認して容量を修正する機会を特定するのに役立ちます。</block>
@@ -340,13 +319,10 @@
   <block id="20d6f49b527c941ea400d33bec3ddfdc" category="paragraph">BlueXPの経済的効率化機能は、予測されるデータ増加量に基づいてAFF システムに関する推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、容量の増加予測を満たす、資産構成に最適な推奨事項が提示されます。</block>
   <block id="cee6750d0d4e5f1ebf12ff5962c2cc05" category="paragraph">キャパシティプランニングでは、現在と予測の両方で、環境内の容量が少ない領域を特定します。BlueXPの経済性：AIを使用してデータ量の増大を予測し、計画プロセスを支援します。Economic Efficiencyサービスは、お客様の環境内にあるこれらの容量の少ない領域を特定し、問題の解決方法に関する推奨事項を提供します。</block>
   <block id="15ff24e1dff620c1df51b9d6cb48a073" category="paragraph">BlueXPの経済性を活用することで、次のような目標を達成できます。</block>
-  <block id="2b787d5a3ddc4d29ecaec24185257f94" category="summary">BlueXPの経済効率化サービスは、予測されるデータ増加量に基づいて推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、予測される容量増加を満たす、資産構成に最適な推奨事項が提示されます。たとえば、コールドデータをクラウドストレージに階層化して容量を解放することを推奨します。これにより、別のBlueXPサービスであるNetApp Cloud Tieringへの接続が開始されます。</block>
-  <block id="ea29270a68ffb033810e16bff4b5fd66" category="paragraph">BlueXPの経済的効率化機能は、予測されるデータ増加量に基づいて推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、予測される容量増加を満たす、ストレージ資産の構成に最適な推奨事項が提示されます。たとえば、コールドデータをクラウドストレージに階層化して容量を解放することを推奨します。これにより、別のBlueXPサービスであるNetApp BlueXP階層化（Cloud Tiering）への接続が開始されます。</block>
   <block id="f43a34ab4337c16e506bc4b4470f2e5a" category="paragraph">そこからデータを階層化し、BlueXPの経済性に簡単に戻って他のシステムに対処できます。</block>
   <block id="b77b8d53b8f9ad06ff4f1c4f66ce0810" category="paragraph">BlueXPの優れた経済性により、BlueXP階層化サービスへの接続が開始されます。</block>
   <block id="6fbd69f2466455027f39d7ed05855812" category="paragraph">コネクタの導入後、BlueXP階層化サービスがクラスタを検出します（まだ検出されていない場合）。</block>
   <block id="94cbb43a5cde5c6df8693b056bc08139" category="inline-link">BlueXP階層化ドキュメント</block>
-  <block id="5b4267b046db5f03341b553b4e3771d1" category="paragraph">階層化の詳細については、を参照してください<block ref="8eeb1fb0bf24f398f46bcf8e1cd7fe0b" category="inline-link-rx"></block>。</block>
   <block id="b65cfef4d4fde75189a1e74b65a77ec0" category="paragraph">環境内のストレージ資産の容量が、容量のしきい値である90%を下回っているか、下回っていると予測される場合は、Economic Efficiencyサービスによって容量が少ないリソースとして特定され、アラートが生成されます。また、Economic Efficiencyサービスでは、データを階層化するか容量を追加するかを推奨します。</block>
   <block id="91c71bf1224b1e14a6c1f681b8177e35" category="inline-link-macro">容量を追加しています</block>
   <block id="d9883c7f55a9f89fbe625003d35013d9" category="list-text">*容量の追加*：次に進みます <block ref="da789fd2f6c7c3e80b54e962404e89e8" category="inline-link-macro-rx"></block>。</block>
@@ -359,4 +335,28 @@
   <block id="f65eafc37ceb7865c90318dc460588b6" category="sidebar">BlueXPの優れた経済性を活用</block>
   <block id="a8cb12aeeba055d38bbada7b5b51b760" category="sidebar">BlueXPのEconomic Efficiencyに関するドキュメント</block>
   <block id="328ca69db7afb3bf526a93cf02e334f5" category="paragraph">BlueXPの経済性を活用するには、環境がすべての要件を満たしていることを確認する必要があります。</block>
+  <block id="d4f1e4e7a0c404e8cf707bde6c89b99e" category="paragraph">サービスを使用する前にBlueXPでコネクタを作成する方法については、該当するBlueXPのドキュメントを参照してください<block ref="ce3b8a85a3441e001ec3d611abbf0d00" category="inline-link-rx"></block>。</block>
+  <block id="78b9dc0d793f8cef6a2fed7ea247da03" category="paragraph">サービスを使用する前の手順については、を参照してください<block ref="8cab2f9c49f209aeaa6ba3d7ce4342f6" category="inline-link-rx"></block>。</block>
+  <block id="7d7127ef879a78562b832b07e0467e4d" category="paragraph">を参照してください<block ref="dbb33dbf9eb2131f5e9c130f8d43d40b" category="inline-link-rx"></block> および<block ref="80109aba99cda75e73f8aee37e8d3028" category="inline-link-rx"></block>。</block>
+  <block id="1761f86051ec9114ac2cb5961c8605d7" category="paragraph">BlueXPにログインするには、NetApp Support Site のクレデンシャルを使用するか、Eメールとパスワードを使用してネットアップクラウドへのログインにサインアップします。<block ref="192dac3a1352f6134fa7409c0b073570" category="inline-link-rx"></block>。</block>
+  <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
+  <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
+  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
+  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">これはシステムによって生成されたIDで、電子メールにマッピングされます。[*NSS Management*]ページで、から電子メールを表示できます <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> メニュー。</block>
+  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">ログイン認証情報トークンを更新する必要がある場合は、の[認証情報の更新*]オプションも使用できます <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> メニュー。</block>
+  <block id="1bb5620ed3998fd776980cad36e22c9a" category="paragraph"><block ref="1bb5620ed3998fd776980cad36e22c9a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0f6cac2f77150840994f84044fc1b12b" category="list-text">をクリックして、テーブルに表示される列を変更します <block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> 次に、表示する列を選択します。</block>
+  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6ba7d68d8b3ef0f3398afb9d3ea96172" category="list-text">をクリックして既存のケースを管理します <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> 使用可能なオプションのいずれかを選択します。</block>
+  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0d2590690be6a91eed09f3348f749f90" category="summary">BlueXPの経済効率化サービスは、予測されるデータ増加量に基づいて推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、予測される容量増加を満たす、資産構成に最適な推奨事項が提示されます。たとえば、コールドデータをクラウドストレージに階層化して容量を解放することを推奨します。これにより、別のBlueXPサービスであるBlueXP階層化への接続が開始されます。</block>
+  <block id="f1dab53f3ff5a870c1f42bc80b1d6ede" category="paragraph">BlueXPの経済的効率化機能は、予測されるデータ増加量に基づいて推奨事項を提供します。予測を受け入れるか、独自の予測を入力できます。これに基づいて、予測される容量増加を満たす、ストレージ資産の構成に最適な推奨事項が提示されます。たとえば、コールドデータをクラウドストレージに階層化して容量を解放することを推奨します。これにより、もう1つのBlueXPサービスであるNetApp BlueXP階層化への接続が開始されます。</block>
+  <block id="3c52e2340ca9c74b4bec9c4eef1ed3aa" category="list-text">BlueXPコネクタを導入する必要がある場合は、該当するBlueXPのドキュメントを参照してください<block ref="42c6937b4eb668f4de60cd98642d93c2" category="inline-link-rx"></block>。それ以外の場合は、既にコネクタをデプロイしている場合、コネクタをデプロイするオプションは表示されません。</block>
+  <block id="3d8b27727e14c7d5bb4b8557d9b4533b" category="list-text">サービスでクラスタを検出する必要がある場合は、を参照してください<block ref="8cab2f9c49f209aeaa6ba3d7ce4342f6" category="inline-link-rx"></block>。そうしないと、クラスタがすでに検出されている場合、クラスタを検出するオプションは表示されません。</block>
+  <block id="ef1a15116a22f7e17197730844bfceeb" category="paragraph">階層化の詳細については、を参照してください<block ref="b91b629813e35033dc0c12a55f7d1874" category="inline-link-rx"></block>。</block>
 </blocks>
