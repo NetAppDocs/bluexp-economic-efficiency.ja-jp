@@ -27,7 +27,7 @@ link:../get-started/capacity-setup.html["サービスをセットアップする
 サービスを設定した後、次に行うべきことは次のとおりです。
 
 [role="quick-margin-list"]
-* link:../use/tech-refresh.html["機器更改に関する評価を受ける"]。
+* link:../use/tech-refresh.html["機器更改（Tech Refresh）の評価を受けるか、新しいハードウェアでワークロードをシミュレート"]。
 * link:../use/capacity-review-status.html["キャパシティプランニングのステータスを確認します"]。
 * link:../use/capacity-add.html["容量を追加します"]。
 * link:../use/capacity-tier-data.html["コールドデータをクラウドストレージに階層化してストレージを解放します"]。

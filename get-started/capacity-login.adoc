@@ -16,6 +16,9 @@ NetApp BlueXPを使用してEconomic Efficiencyサービスにログインしま
 
 BlueXPにログインするには、NetApp Support Site のクレデンシャルを使用するか、Eメールとパスワードを使用してネットアップクラウドへのログインにサインアップします。 https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["ログインの詳細については、こちらをご覧ください"^]。
 
+
+TIP: この機能には、BlueXPの経済性（*ガバナンス*>*経済効率*>*機器更改*）またはNetAppデジタルアドバイザ（*ダッシュボード*>*計画ウィジェット*>*機器更改*）からアクセスできます。
+
 .手順
 . Webブラウザを開き、にアクセスします https://console.bluexp.netapp.com/["BlueXPコンソール"^]。
 +
