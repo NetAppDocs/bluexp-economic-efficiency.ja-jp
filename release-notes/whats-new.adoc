@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions 
-summary: BlueXPの経済性：現在または予測される低容量の資産を特定し、データの階層化や容量の追加に関する推奨事項（AFF システムの場合）を提供します。 
+summary: BlueXPの経済効率化サービスは、容量が現在または予測される低いクラスタを特定し、データの階層化や容量の追加（AFF システムの場合）に関する推奨事項を提供します。サポート終了が近づいているシステムに関する機器更改に関する推奨事項も提供されます。 
 ---
 = 新機能
 :hardbreaks:

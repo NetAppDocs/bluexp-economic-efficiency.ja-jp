@@ -69,7 +69,6 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">[ 保存（ Save ） ] を選択します。</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">結果</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">この時間が経過すると、リスクのリストに再びリスクが表示されます。</block>
-  <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">まず、運用環境、ログイン、ネットワークアクセス、Webブラウザの準備状況を確認します。</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">Webブラウザからのログインやネットワークアクセスなど、BlueXPのすべての要件を満たす環境が必要です。</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">クラスタへのアクセスクレデンシャルが必要です。</block>
   <block id="04346ae081b15c5b07fe9620a0a0fae7" category="list-text">必須ではありませんが、BlueXP Connectorが適切に配置されて有効になっていて、ONTAP システムが検出された場合に役立ちます。そうでない場合は、サービスがそれらのプロセスを順を追って説明します。</block>
@@ -251,7 +250,6 @@
   <block id="2aac28c0e66ef23b3e92b337139061df" category="doc">BlueXPの経済性に関するよくある質問</block>
   <block id="722e45d4312069bddbd843c7cfde4d62" category="section-title">BlueXPの経済性を最大限に引き出します</block>
   <block id="13d1effb4b36d6b3478f0737f984f459" category="paragraph">* BlueXPの経済性を活用するにはライセンスが必要ですか？*</block>
-  <block id="ae0e6a9591b0ba940ca472563fff152d" category="summary">BlueXPの経済性：現在または予測される低容量の資産を特定し、データの階層化や容量の追加に関する推奨事項（AFF システムの場合）を提供します。</block>
   <block id="c24b642feb1fabfe18bbee711c803f24" category="paragraph">BlueXPの経済性に関する最新情報をご紹介します。</block>
   <block id="35c28a4f1250fc5c59dd5bfa5d9993ce" category="paragraph">新しいBlueXPの経済効率化サービスは、現在または予測されている容量が少ないストレージ資産を特定し、オンプレミスのAFF システムのデータ階層化や容量の追加に関する推奨事項を提供します。</block>
   <block id="345d0e0aeae5ae7cbf8cdd1fc138e5e6" category="inline-link-macro">BlueXPの経済性に関する詳細はこちらをご覧ください</block>
@@ -475,4 +473,5 @@
   <block id="9087f29454392d1114832868ba710775" category="paragraph">この機能には、BlueXPの経済性（*ガバナンス*&gt;*経済効率*&gt;*機器更改*）またはNetAppデジタルアドバイザ（*ダッシュボード*&gt;*計画ウィジェット*&gt;*機器更改*）からアクセスできます。</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">BlueXPの経済効率に関するドキュメント</block>
   <block id="3d8fb7c37ddf3912bdf3208d101382d5" category="sidebar">機器更改を評価する</block>
+  <block id="7a2298e2cd5eafe22539462b05dbe38c" category="paragraph">まず、運用環境、ログイン、ネットワークアクセスの準備状況を確認します。</block>
 </blocks>
