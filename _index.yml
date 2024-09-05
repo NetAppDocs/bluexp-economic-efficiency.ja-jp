@@ -1,10 +1,10 @@
 ---
 indexpage:
   title: BlueXPの経済効率に関するドキュメント
-  summary: BlueXPの経済効率化サービスは、容量が現在または予測される低いクラスタを特定し、データの階層化や容量の追加（AFF システムの場合）に関する推奨事項を提供します。サポート終了が近づいているシステムに関する機器更改に関する推奨事項も提供されます。
+  summary: BlueXP  の経済効率化サービスは、現在または予測される低容量のクラスタを特定し、データ階層化に関する推奨事項を提供します。
   keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
     bluexp, data tier, hardware end of life
-  lead: BlueXPの経済効率化サービスは、容量が現在または予測される低いクラスタを特定し、データの階層化や容量の追加（AFF システムの場合）に関する推奨事項を提供します。サポート終了が近づいているシステムに関する機器更改に関する推奨事項も提供されます。
+  lead: BlueXP  の経済効率化サービスは、現在または予測される低容量のクラスタを特定し、データ階層化に関する推奨事項を提供します。
   tiles:
   - title: はじめに
     links:

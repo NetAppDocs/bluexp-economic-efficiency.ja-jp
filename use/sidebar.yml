@@ -2,14 +2,10 @@
 section: use
 title: BlueXPの優れた経済性を活用
 entries:
-- title: 機器更改を評価する
-  url: "/use/tech-refresh.html"
 - title: 容量の問題を確認して修正
   url: "/use/capacity-remediate-overview.html"
 - title: 容量ステータスを確認
   url: "/use/capacity-review-status.html"
-- title: 容量を追加します
-  url: "/use/capacity-add.html"
 - title: コールドデータをクラウドストレージに階層化
   url: "/use/capacity-tier-data.html"
 - title: もう一度確認するようにリマインダーを設定します

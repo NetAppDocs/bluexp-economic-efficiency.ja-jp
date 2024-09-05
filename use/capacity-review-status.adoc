@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
-keywords: economic efficiency remediate, economic efficiency, capacity planning 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, forecast, capacity, storage, 
 summary: 'クラスタの容量が現在のしきい値（70%）を下回っているか、しきい値（70%）を下回っていると予測される場合は、Economic Efficiencyサービスによって容量が不足しているリソースとみなされ、アラートが生成されます。' 
 ---
 = キャパシティプランニングのステータスを確認します
@@ -12,16 +12,13 @@ summary: 'クラスタの容量が現在のしきい値（70%）を下回って�
 
 
 [role="lead"]
-環境内のストレージ資産の容量が、容量のしきい値である90%を下回っているか、下回っていると予測される場合は、Economic Efficiencyサービスによって容量が少ないリソースとして特定され、アラートが生成されます。また、Economic Efficiencyサービスでは、データを階層化するか容量を追加するかを推奨します。
+環境内のストレージ資産の容量が、容量のしきい値である90%を下回っているか、下回っていると予測される場合は、Economic Efficiencyサービスによって容量が少ないリソースとして特定され、アラートが生成されます。また、経済効率化サービスでは、データを階層化する必要があるかどうかに関する推奨事項も提供されます。
 
 容量問題 の解決に役立つ次のタイプのデータを確認できます。
 
 * プラットフォーム
 * アセットが配置されている国
 * 現在の容量と予測される容量（月別）
-* 容量の使用率とパーセント
-* レイテンシのトレンド
-* IOPSのトレンド
 
 
 .手順
@@ -29,7 +26,7 @@ summary: 'クラスタの容量が現在のしきい値（70%）を下回って�
 . アセットの*[Evaluate Storage Options]*を選択します。
 . 次のいずれかのオプションを選択します。
 +
-** *容量の追加*：次に進みます link:../use/capacity-add.html["容量を追加しています"]。
+** *ベストプラクティス*：リンクをクリックして続行し、ベストプラクティスを表示してください。
 ** *コールドデータの階層化*：次に進みます link:../use/capacity-tier-data.html["コールドデータをクラウドストレージに階層化し、ストレージを解放します"]。
 ** *アクションは必要ありません*：次の手順に進みます link:../use/capacity-reminders.html["アクションなしを選択し、再度確認するリマインダを設定します"]。
 
