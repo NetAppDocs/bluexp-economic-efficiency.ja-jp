@@ -435,7 +435,6 @@
   <block id="10fa032662780ff6f01bd6647d92c626" category="paragraph">ワークロードを追加して、既存のワークロードをシミュレーションから除外することもできます。</block>
   <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">これまでは、アセットの評価を受けて、テクノロジの更新が推奨されるかどうかを判断することしかできませんでした。</block>
   <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">この機能は、左側のナビゲーションの機器更改（Tech Refresh）オプションに含まれるようになりました。</block>
-  <block id="914b4ad9ada7977f36d427a9664a4235" category="paragraph">の詳細については、を参照してください <block ref="4305c0855ed1712385868c1ca4414cc5" category="inline-link-macro-rx"></block>。</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">にアクセスします</block>
   <block id="9087f29454392d1114832868ba710775" category="paragraph">この機能には、BlueXPの経済性（*ガバナンス*&gt;*経済効率*&gt;*機器更改*）またはNetAppデジタルアドバイザ（*ダッシュボード*&gt;*計画ウィジェット*&gt;*機器更改*）からアクセスできます。</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">BlueXPの経済効率に関するドキュメント</block>
@@ -459,4 +458,8 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Cloud Volumes ONTAPで次の主要なワークフローを有効にするには、NetAppサポートサイトのクレデンシャルをBlueXP  組織に関連付ける必要があります。</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">NSSクレデンシャルとBlueXP  組織の関連付けは、BlueXP  ユーザログインに関連付けられたNSSアカウントとは異なります。</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">これらのNSSクレデンシャルは、特定のBlueXP  組織IDに関連付けられています。BlueXP  組織に属するユーザは、*[サポート]&gt;[NSS管理]*からこれらのクレデンシャルにアクセスできます。</block>
+  <block id="6d060bbb2a63ad6b1466ad80fcfc6275" category="doc">テクノロジ更新オプション</block>
+  <block id="bff48bc8f1cd9f08f36e8d0c4fa810ff" category="paragraph">の詳細については、を<block ref="a53ad2061326060987afe3d1fd22d00d" category="inline-link-rx"></block>参照してください。</block>
+  <block id="ba568c6eda754bba155b9d0f187ee2cd" category="doc">無効な機能</block>
+  <block id="fe993a24bb9aca3efb672c108a8c8a76" category="section-title">BlueXP  の経済効率化の導入</block>
 </blocks>
