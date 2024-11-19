@@ -25,7 +25,7 @@ summary: 既存のアセットがあり、テクノロジの更新が推奨さ�
 
 
 
-TIP: この機能には、BlueXPの経済効率化機能またはNetAppデジタルアドバイザからアクセスできます。
+TIP: この機能には、BlueXP  Economic Efficiencyまたはデジタルアドバイザを通じてアクセスできます。
 
 
 

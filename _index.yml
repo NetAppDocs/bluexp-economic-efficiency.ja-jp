@@ -22,8 +22,6 @@ indexpage:
       url: "/get-started/faq.html"
   - title: BlueXPの優れた経済性を活用
     links:
-    - title: 機器更改に関する評価を受ける
-      url: "/use/tech-refresh.html"
     - title: 容量の問題を確認して修正
       url: "/use/capacity-remediate-overview.html"
     - title: 容量ステータスを確認
