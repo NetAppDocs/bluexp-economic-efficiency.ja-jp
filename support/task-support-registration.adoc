@@ -17,7 +17,7 @@ BlueXPとそのストレージソリューションおよびサービスに固�
 
 * link:https://docs.netapp.com/us-en/bluexp-fsx-ontap/start/concept-fsx-aws.html#getting-help["ONTAP 対応の Amazon FSX"^]
 * link:https://docs.netapp.com/us-en/bluexp-azure-netapp-files/concept-azure-netapp-files.html#getting-help["Azure NetApp Files の特長"^]
-* link:https://docs.netapp.com/us-en/bluexp-cloud-volumes-service-gcp/concept-cvs-gcp.html#getting-help["Cloud Volumes Service for Google Cloud"^]
+* link:https://docs.netapp.com/us-en/bluexp-google-cloud-netapp-volumes/concept-gcnv.html#getting-help["Google Cloud NetApp Volumes"^]
 
 
 
@@ -59,7 +59,7 @@ NSSアカウントをお持ちのネットアップのお客様は、BlueXPか�
 [リソース]ページに、BlueXP  組織がサポートに登録されていることが表示されます。
 
 +
-image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/screenshot-support-registration.png["アカウントのシリアル番号、緑のチェックボックス、サポート登録済みのテキストを示すスクリーンショット。"]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/screenshot-support-registration.png["アカウントのシリアル番号、緑色のチェックボックス、および「サポートに登録済み」というテキストが表示されているスクリーンショット。"]
 
 +
 他のBlueXPユーザにNetApp Support Siteアカウントが関連付けられていない場合、このサポート登録ステータスは表示されません。ただし、BlueXP  組織がサポートに登録されていないわけではありません。組織内の1人のユーザーがこれらの手順を実行している限り、組織は登録されています。
